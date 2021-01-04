@@ -15,5 +15,5 @@ Python3
 
 ## Usage
 
-Put a target imx file with the ipynb program file (ReadImxfile2CalculateSpindleAngle_ver1.ipynb), and run the program.
+Put a target imx file and the ipynb program file (ReadImxfile2CalculateSpindleAngle_ver1.ipynb) in the same directory, and run the program.
 
