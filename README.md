@@ -2,7 +2,8 @@ ReadImxfile2CalculateSpindleAngle
 ====
 4th, January 2021. 
 
-This program is used in the paper (link). 
+This program is used in the following paper: 
+[Morita, et al. "Tracing the origin of hair follicle stem cells", Nature](https://www.nature.com/articles/s41586-021-03638-5).
 The code is written by Takaki Yamamoto and Ritsuko Morita. 
 
 ## Description
